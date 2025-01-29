@@ -1,4 +1,4 @@
-import { ChildProps } from '@/index'
+import { ChildProps } from '@/types/index'
 import React from 'react'
 import Navbar from './_components/navbar'
 
